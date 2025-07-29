@@ -65,20 +65,11 @@ nvim
 
 When you open Neovim, Lazy.nvim will install all plugins automatically.
 
----
 
-## 🛠 Features
-
-* Fast startup and plugin management via Lazy.nvim
-* Preconfigured LSPs for common languages
-* Smooth and clean interface
-* Easy to customize further
-
----
 
 ## 💬 Questions or Issues?
 
-If something doesn’t work or you have suggestions, feel free to open an issue here.
+If something doesn’t work or you have suggestions, you can open issues.
 
 Also, you can follow me on Telegram: [t.me/MrPhoenix_works](https://t.me/MrPhoenix_works)
 

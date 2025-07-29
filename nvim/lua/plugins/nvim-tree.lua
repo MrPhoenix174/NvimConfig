@@ -4,11 +4,11 @@ return {
   version = "*",
   lazy = false,
   dependencies = {
-    "nvim-tree/nvim-web-devicons", -- Иконки
+    "nvim-tree/nvim-web-devicons", 
   },
   config = function()
     require("nvim-tree").setup({
-      -- Твои настройки тут
+      
       view = {
         width = 30,
         side = "left",

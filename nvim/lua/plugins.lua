@@ -7,8 +7,8 @@ return {
     end,
   },
 
+
  
--- Автозакрытие скобок, кавычек и HTML-тегов
  {
   "windwp/nvim-autopairs",
   event = "InsertEnter",
@@ -37,6 +37,7 @@ return {
 
  
 
+
  {
   "folke/todo-comments.nvim",
   dependencies = { "nvim-lua/plenary.nvim" },
@@ -46,6 +47,7 @@ return {
   end,
  },
 	
+
  {
   "akinsho/toggleterm.nvim",
   version = "*",
