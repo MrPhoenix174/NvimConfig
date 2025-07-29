@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NvimConfig
 My Neovim Config
 =======
@@ -7,7 +6,7 @@ My Neovim Config
 
 > Minimal, clean and fully usable setup for daily development.
 
-![Screenshot of Neovim](./screenshot.png)
+![Screenshot of Neovim](./Preview.png)
 
 ---
 
@@ -74,4 +73,3 @@ If something doesn’t work or you have suggestions, you can open issues.
 Also, you can follow me on Telegram: [t.me/MrPhoenix_works](https://t.me/MrPhoenix_works)
 
 Thanks for checking it out! ⭐
->>>>>>> 62f6fe1 (initial commit)
